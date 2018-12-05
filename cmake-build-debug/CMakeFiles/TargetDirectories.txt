@@ -1,0 +1,3 @@
+C:/Users/jonapy/CLionProjects/jeuDames/cmake-build-debug/CMakeFiles/JeuDames.dir
+C:/Users/jonapy/CLionProjects/jeuDames/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jonapy/CLionProjects/jeuDames/cmake-build-debug/CMakeFiles/rebuild_cache.dir

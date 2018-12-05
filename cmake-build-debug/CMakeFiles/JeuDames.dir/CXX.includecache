@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jonapy/CLionProjects/JeuDames/joueur.cpp
+joueur.h
+C:/Users/jonapy/CLionProjects/JeuDames/joueur.h
+
+C:/Users/jonapy/CLionProjects/JeuDames/joueur.h
+
+C:/Users/jonapy/CLionProjects/JeuDames/piece.cpp
+piece.h
+C:/Users/jonapy/CLionProjects/JeuDames/piece.h
+boost/tuple/tuple.hpp
+C:/Users/jonapy/CLionProjects/JeuDames/boost/tuple/tuple.hpp
+vector
+-
+
+C:/Users/jonapy/CLionProjects/JeuDames/piece.h
+

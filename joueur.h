@@ -6,14 +6,16 @@
 #define JEUDAMES_JOUEUR_H
 
 
+#include <string.h>
+#include <vector>
+
 class Joueur {
 
 private:
-    couleur couleur;
-    string name;
+    std::string couleur;
 
 public:
-    list<std::tuple<char,int>> getAllPossibleMoves();
+    virtual std::string choisirCoup();
 
 };
 
